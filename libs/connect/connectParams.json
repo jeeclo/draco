@@ -1,0 +1,26 @@
+[
+        {
+        "draco.local" : {
+            "host" : "127.0.0.1",
+            "user" : "root",
+            "password" : "Jesus1216",
+            "database" : "eduardo2_draco",
+            "port" : "3306"
+        },
+        "draco.test" : {
+            "host" : "127.0.0.1",
+            "user" : "root",
+            "password" : "testDraco",
+            "database" : "eduardo2_draco",
+            "port" : "3306"
+        },        
+        "draco.production" : {
+            "host" : "localhost",
+            "user" : "eduardo2_draco",
+            "password" : "dR4c0.3C",
+            "database" : "eduardo2_draco",
+            "port" : "3306"
+        }
+
+    }
+]
